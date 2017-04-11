@@ -1,6 +1,6 @@
-# OSHW1
+# OSHW2
 
-Operating Systems, Assignment 1.
+Operating Systems, Assignment 2.
 
 Implements multi-threaded dispatcher.
 
